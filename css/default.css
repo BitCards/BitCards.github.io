@@ -1,0 +1,21 @@
+@import url('http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300');
+
+body {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-family: 'Roboto', sans-serif;
+    color: #712626;
+    text-align: center;
+    text-shadow: 3px 3px 10px #66a1a1, -3px 3px 10px #66a1a1, 3px -3px 10px #66a1a1, -3px -3px 10px #66a1a1;
+    background: url(../img/background.jpg) no-repeat center 0px;
+}
+
+h1 {
+    padding-top: 120px;
+}
+
+h2 {
+    min-height: 100px;
+    font-size: 200%;
+}
+

@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Adolfo Sanz de Diego -- @asanzdiego
+  Jorge Arévalo        -- @jorgeas80
+
+# THANKS
+
+  Carlos Azaustre      -- @carlosazaustre
+
+# Technology Colophon
+
+  Last Update: 2014-04-20
+  Language: Spanish
+  Google Docs, Brackets.io, GIMP
